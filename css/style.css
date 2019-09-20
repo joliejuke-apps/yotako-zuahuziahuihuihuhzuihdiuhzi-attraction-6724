@@ -1,0 +1,456 @@
+@media (max-width:768px) {
+  .pattern0 .subclass0,
+  .pattern0 .subclass1 {
+    color: #e8e8e8;
+    font-family: 'Segoe UI',serif;
+    font-size: .6875em;
+    margin-left: 0;
+    margin-top: 2px;
+    height: 16px
+  }
+  .pattern0 .subclass1 {
+    color: #ebebeb;
+    font-size: .9375em;
+    font-weight: 700;
+    margin-top: 0;
+    height: 21px
+  }
+  .pattern0 .subclass2 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 10px;
+    margin-top: 9px;
+    width: 45px;
+    height: 45px
+  }
+  .pattern0 .subclass3 {
+    background-color: #00e11e;
+    box-shadow: 0 0 5px 1px #08ff00;
+    margin-left: 112px;
+    margin-top: 0;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px
+  }
+  .pattern0.instance0,
+  .pattern0.instance1,
+  .pattern0.instance2,
+  .pattern0.instance3 {
+    display: flex;
+    margin-left: 43px;
+    margin-top: 38px;
+    width: 290px;
+    height: 63px
+  }
+  .pattern0.instance3 {
+    margin-top: 83px
+  }
+  .pattern0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-radius: 4px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .iphone6781container0column1,
+  .iphone6781container2column1,
+  .iphone6781container4column1 {
+    display: flex;
+    margin-left: 21px;
+    width: 80px;
+    height: 39px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style16 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 10px;
+    width: 45px;
+    height: 45px;
+    align-self: center
+  }
+  .iphone6781container6column1 {
+    display: flex;
+    margin-left: 21px;
+    width: 80px;
+    height: 39px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: 'Segoe UI',serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: .9375em;
+    margin-top: 0;
+    height: 21px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: .6875em;
+    margin-top: 2px;
+    height: 16px
+  }
+  .derivation0 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    margin-left: 112px;
+    margin-top: 46px;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .pattern0 .subclass0,
+  .pattern0 .subclass1 {
+    color: #e8e8e8;
+    font-family: 'Segoe UI',serif;
+    font-size: 1.408em;
+    margin-left: 0;
+    margin-top: 4px;
+    height: 33px
+  }
+  .pattern0 .subclass1 {
+    color: #ebebeb;
+    font-size: 1.92em;
+    font-weight: 700;
+    margin-top: 0;
+    height: 43px
+  }
+  .pattern0 .subclass2 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 20px;
+    margin-top: 18px;
+    width: 92px;
+    height: 92px
+  }
+  .pattern0 .subclass3 {
+    background-color: #00e11e;
+    box-shadow: 0 0 5px 1px #08ff00;
+    margin-left: 229px;
+    margin-top: 0;
+    width: 16px;
+    height: 16px;
+    border-radius: 4px
+  }
+  .pattern0.instance0,
+  .pattern0.instance1,
+  .pattern0.instance2,
+  .pattern0.instance3 {
+    display: flex;
+    margin-left: 88px;
+    margin-top: 78px;
+    width: 594px;
+    height: 129px
+  }
+  .pattern0.instance3 {
+    margin-top: 170px
+  }
+  .pattern0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-radius: 4px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .iphone6781container0column1,
+  .iphone6781container2column1,
+  .iphone6781container4column1 {
+    display: flex;
+    margin-left: 43px;
+    width: 164px;
+    height: 80px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style16 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 20px;
+    width: 92px;
+    height: 92px;
+    align-self: center
+  }
+  .iphone6781container6column1 {
+    display: flex;
+    margin-left: 43px;
+    width: 164px;
+    height: 80px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: 'Segoe UI',serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 1.92em;
+    margin-top: 0;
+    height: 43px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: 1.408em;
+    margin-top: 4px;
+    height: 33px
+  }
+  .derivation0 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    margin-left: 229px;
+    margin-top: 94px;
+    width: 16px;
+    height: 16px;
+    border-radius: 4px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .pattern0 .subclass0,
+  .pattern0 .subclass1 {
+    color: #e8e8e8;
+    font-family: 'Segoe UI',serif;
+    font-size: 1.6866666666666665em;
+    margin-left: 0;
+    margin-top: 5px;
+    height: 39px
+  }
+  .pattern0 .subclass1 {
+    color: #ebebeb;
+    font-size: 2.3em;
+    font-weight: 700;
+    margin-top: 0;
+    height: 52px
+  }
+  .pattern0 .subclass2 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 25px;
+    margin-top: 22px;
+    width: 110px;
+    height: 110px
+  }
+  .pattern0 .subclass3 {
+    background-color: #00e11e;
+    box-shadow: 0 0 5px 1px #08ff00;
+    margin-left: 275px;
+    margin-top: 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 4px
+  }
+  .pattern0.instance0,
+  .pattern0.instance1,
+  .pattern0.instance2,
+  .pattern0.instance3 {
+    display: flex;
+    margin-left: 105px;
+    margin-top: 93px;
+    width: 711px;
+    height: 155px
+  }
+  .pattern0.instance3 {
+    margin-top: 204px
+  }
+  .pattern0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-radius: 4px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .iphone6781container0column1,
+  .iphone6781container2column1,
+  .iphone6781container4column1 {
+    display: flex;
+    margin-left: 52px;
+    width: 196px;
+    height: 96px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style16 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 25px;
+    width: 110px;
+    height: 110px;
+    align-self: center
+  }
+  .iphone6781container6column1 {
+    display: flex;
+    margin-left: 52px;
+    width: 196px;
+    height: 96px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: 'Segoe UI',serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 2.3em;
+    margin-top: 0;
+    height: 52px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: 1.6866666666666665em;
+    margin-top: 5px;
+    height: 39px
+  }
+  .derivation0 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    margin-left: 275px;
+    margin-top: 113px;
+    width: 20px;
+    height: 20px;
+    border-radius: 4px
+  }
+}
+@media (min-width:1200px) {
+  .pattern0 .subclass0,
+  .pattern0 .subclass1 {
+    color: #e8e8e8;
+    font-family: 'Segoe UI',serif;
+    font-size: 2.2em;
+    margin-left: 0;
+    margin-top: 6px;
+    height: 51px
+  }
+  .pattern0 .subclass1 {
+    color: #ebebeb;
+    font-size: 3em;
+    font-weight: 700;
+    margin-top: 0;
+    height: 67px
+  }
+  .pattern0 .subclass2 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 32px;
+    margin-top: 29px;
+    width: 144px;
+    height: 144px
+  }
+  .pattern0 .subclass3 {
+    background-color: #00e11e;
+    box-shadow: 0 0 5px 1px #08ff00;
+    margin-left: 358px;
+    margin-top: 0;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px
+  }
+  .pattern0.instance0,
+  .pattern0.instance1,
+  .pattern0.instance2,
+  .pattern0.instance3 {
+    display: flex;
+    margin-left: 138px;
+    margin-top: 122px;
+    width: 928px;
+    height: 202px
+  }
+  .pattern0.instance3 {
+    margin-top: 266px
+  }
+  .pattern0 {
+    background-color: #313131;
+    box-shadow: 0 3px 3px 1px rgba(0,0,0,.1607843137254902);
+    border-radius: 4px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .iphone6781container0column1,
+  .iphone6781container2column1,
+  .iphone6781container4column1 {
+    display: flex;
+    margin-left: 67px;
+    width: 256px;
+    height: 125px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style16 {
+    border-left: 1px solid #707070;
+    border-right: 1px solid #707070;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+    margin-left: 32px;
+    width: 144px;
+    height: 144px;
+    align-self: center
+  }
+  .iphone6781container6column1 {
+    display: flex;
+    margin-left: 67px;
+    width: 256px;
+    height: 125px;
+    align-self: center;
+    flex-direction: column
+  }
+  .style17,
+  .style18 {
+    font-family: 'Segoe UI',serif
+  }
+  .style17 {
+    font-weight: 700;
+    color: #ebebeb;
+    font-size: 3em;
+    margin-top: 0;
+    height: 67px
+  }
+  .style18 {
+    color: #e8e8e8;
+    font-size: 2.2em;
+    margin-top: 6px;
+    height: 51px
+  }
+  .derivation0 {
+    background-color: #e10000;
+    box-shadow: 0 0 5px 1px rgba(255,0,0,.6784313725490196);
+    margin-left: 358px;
+    margin-top: 147px;
+    width: 26px;
+    height: 26px;
+    border-radius: 4px
+  }
+}
